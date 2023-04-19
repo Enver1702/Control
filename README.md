@@ -26,4 +26,5 @@
 
 
 
-##Решение задачи и блок схема находится в task (подпапка "the solution of the problem")
+## Решение задачи находится branches,затем в task (подпапка "the solution of the problem");
+## Блок - схема находится в branches,затем в task (block diagram).
